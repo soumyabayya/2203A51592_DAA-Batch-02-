@@ -5,3 +5,5 @@ WEEK-01[Single dimensional array](https://github.com/soumyabayya/2203A51592_DAA_
 WEEK-01[Multiplication matrix](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/multiplication.c)
 
 WEEK-02[Insertion sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/insertion_sort.c)
+
+WEEK-02[Bubble sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/bubble_sort.c)
