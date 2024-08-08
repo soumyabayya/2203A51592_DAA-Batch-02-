@@ -15,3 +15,5 @@ WEEK-03:[Destination using bubble sort](https://github.com/soumyabayya/2203A5159
 WEEK-03:[Product id's using insertionsort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/productid_insertionsort.c)
 
 WEEK-03:[Priority using selection sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/priority_selectionsort.c)
+
+WEEK-03[Book using bubble sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/book_bubblesort.c)
