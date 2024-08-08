@@ -11,3 +11,5 @@ WEEK-02[Bubble sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob
 WEEK-02[Selection sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/selection_sort.c)
 
 WEEK-03:[Destination using bubble sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/destination_bubblesort.cpp)
+
+WEEK-03:[Product id's using insertionsort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/productid_insertionsort.c)
