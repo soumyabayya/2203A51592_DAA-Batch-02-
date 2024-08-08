@@ -7,3 +7,5 @@ WEEK-01[Multiplication matrix](https://github.com/soumyabayya/2203A51592_DAA_Bat
 WEEK-02[Insertion sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/insertion_sort.c)
 
 WEEK-02[Bubble sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/bubble_sort.c)
+
+WEEK-02[Selection sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/selection_sort.c)
