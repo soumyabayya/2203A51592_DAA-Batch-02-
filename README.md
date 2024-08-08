@@ -19,3 +19,5 @@ WEEK-03:[Priority using selection sort](https://github.com/soumyabayya/2203A5159
 WEEK-03[Book using bubble sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/book_bubblesort.c)
 
 WEEK-03[Package tracking using selection sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/trackingno_selectionsort.c)
+
+WEEK-03[Product price using insertion sort](https://github.com/soumyabayya/2203A51592_DAA_Batch-02/blob/main/productprice_insertionsort.c)
